@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://cnu.github.io/sitemap.xml 
+Sitemap: http://cnu.name/sitemap.xml 
