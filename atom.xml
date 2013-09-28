@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[cnu.name]]></title>
+  <link href="http://cnu.name/atom.xml" rel="self"/>
+  <link href="http://cnu.name/"/>
+  <updated>2013-09-29T01:50:37+05:30</updated>
+  <id>http://cnu.name/</id>
+  <author>
+    <name><![CDATA[Srinivasan Rangarajan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Moved to Octopress]]></title>
+    <link href="http://cnu.name/blog/2013/moved-to-octopress/"/>
+    <updated>2013-09-28T23:41:00+05:30</updated>
+    <id>http://cnu.name/blog/2013/moved-to-octopress</id>
+    <content type="html"><![CDATA[<p>I have decided to move my site/blog to <a href="http://octopress.org/">Octopress</a> from the old <a href="http://nanoc.stoneship.org/">nanoc</a> based one. Both are static website generators, but since octopress is based on the much popular <a href="http://jekyllrb.com/">jekyll</a>/<a href="http://pages.github.com/">Github</a> based platform, I decided to try this out.</p>
+
+<p>The main reason I chose nanoc over jekyll was the ability to have static home &ldquo;page&rdquo; as opposed to the blog as the main page and it was easier to begin with. Now that I got (re)introduced to octopress, I feel things are as easy as nanoc. Of course I had some trouble getting the right version of Ruby on Mac OS X, but atlast found a <a href="http://panchoat.org/blog/2012/05/26/setup-octopress-under-mac-os-x-lion/">good step-by-step tutorial</a>. For the theme, I found a nice looking one by <a href="http://blog.justin.kelly.org.au/octopress-theme/">Justin Kelly</a> and just used it without any changes.</p>
+
+<p>I just had to copy-paste the content from the old site to the new one as it was all mostly written using Markdown. However, I want to fix the projects page a bit &ndash; adding more information, making it more structured and easier to parse (by a human).</p>
+
+<p>Right now I think this does a good enough job of running my personal website. Now the only remaining choice is to whether host it on Github or on own personal host.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Dependancy Hell]]></title>
+    <link href="http://cnu.name/blog/2012/dependancy-hell/"/>
+    <updated>2012-08-12T09:33:00+05:30</updated>
+    <id>http://cnu.name/blog/2012/dependancy-hell</id>
+    <content type="html"><![CDATA[<p>Contrary to the title, this has got nothing to do with <a href="http://en.wikipedia.org/wiki/Dependency_hell">installing software packages</a>. Instead this post is about humans.
+Even though the most intelligent and advanced life forms in the history of the universe, with all the technological advances, humans are heavily dependent on others.</p>
+
+<p>A lot of people think they are independent and doesn&rsquo;t need anyone else to live.</p>
+
+<p>Little do they realize that a human is dependent on other humans right from the time he is conceived, till the time his dead body is disposed off. Every second between the birth and death is also dependent on others.</p>
+
+<p>Sadly this is one truth of life that is hard for many to accept. You are in hell &ndash; dependency hell.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[26]]></title>
+    <link href="http://cnu.name/blog/2012/26/"/>
+    <updated>2012-04-24T08:30:00+05:30</updated>
+    <id>http://cnu.name/blog/2012/26</id>
+    <content type="html"><![CDATA[<p>Today I am 26 and here is an update of the list of things I have not done (and done).</p>
+
+<p>I haven&rsquo;t done any of the following stuff (atleast one item striked out):</p>
+
+<ul>
+<li><strike>Haven&rsquo;t started my own <a href="http://cruns.com">startup</a></strike></li>
+<li>Have not become a millionaire</li>
+<li>Haven&rsquo;t built my own house</li>
+</ul>
+
+
+<p>Will update the list next year (hopefully adding another interesting item as completed).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[New Site]]></title>
+    <link href="http://cnu.name/blog/2012/new-site/"/>
+    <updated>2012-04-22T01:52:22+05:30</updated>
+    <id>http://cnu.name/blog/2012/new-site</id>
+    <content type="html"><![CDATA[<p>For a long time all my personal stuff were posted on my <a href="http://cnu.livejournal.com">livejournal</a>, <a href="http://cnus8n.blogspot.com">blogger</a> or <a href="http://cnu.posterous.com">posterous</a> blogs. I always wanted to get my own domain name, but couldn&rsquo;t get <a href="http://cnu.in">cnu.in</a> or <a href="http://cnu.me">cnu.me</a> as they were already registered.</p>
+
+<!-- more -->
+
+
+<p>And one day while doing a domain search, I found that <a href="http://cnu.name">cnu.name</a> was available and is a better choice than the <a href="http://en.wikipedia.org/wiki/.in">.in ccTLD</a> or <a href="http://en.wikipedia.org/wiki/.me">.me ccTLD</a> as <a href="http://en.wikipedia.org/wiki/.name">.name gTLD</a>s are for names and nicknames.</p>
+
+<p>So I bought it and then was trying out various static blog generators like the famous <a href="http://jekyllrb.com">Jekyll</a> &amp; <a href="http://ringce.com/hyde">Hyde</a> as well as other lesser known scripts. I then decided on using <a href="http://nanoc.stoneship.org/">nanoc</a> though written in <a href="http://www.ruby-lang.org/">Ruby</a> was easy to start off with and extend.</p>
+
+<p>This site and blog will be only for my personal posts and as a list of things I have done. Other generic topics will be posted to <a href="http://blogial.com">Blogial</a>, which will receive a total redesign and relaunch. As for my older posts, they will remain in the other sites till they shut down the service, when I may think about archiving it.</p>
+
+<p>I am still theming the site which is inspired from <a href="http://thpani.at">thpani.at</a> (but converted into HTML5 and with bigger fonts) and a few parts of the nanoc code for the blog from <a href="http://clarkdave.net/2012/02/building-a-static-blog-with-nanoc/">clarkdave.net</a>. Am posting this post and hopefully a few more early than the launch so that I don&rsquo;t end up with a empty site.</p>
+]]></content>
+  </entry>
+  
+</feed>
