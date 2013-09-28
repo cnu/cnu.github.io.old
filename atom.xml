@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[cnu.name]]></title>
-  <link href="http://cnu.name/atom.xml" rel="self"/>
-  <link href="http://cnu.name/"/>
-  <updated>2013-09-29T01:50:37+05:30</updated>
-  <id>http://cnu.name/</id>
+  <link href="http://cnu.github.io/atom.xml" rel="self"/>
+  <link href="http://cnu.github.io/"/>
+  <updated>2013-09-29T01:56:47+05:30</updated>
+  <id>http://cnu.github.io/</id>
   <author>
     <name><![CDATA[Srinivasan Rangarajan]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Moved to Octopress]]></title>
-    <link href="http://cnu.name/blog/2013/moved-to-octopress/"/>
+    <link href="http://cnu.github.io/blog/2013/moved-to-octopress/"/>
     <updated>2013-09-28T23:41:00+05:30</updated>
-    <id>http://cnu.name/blog/2013/moved-to-octopress</id>
+    <id>http://cnu.github.io/blog/2013/moved-to-octopress</id>
     <content type="html"><![CDATA[<p>I have decided to move my site/blog to <a href="http://octopress.org/">Octopress</a> from the old <a href="http://nanoc.stoneship.org/">nanoc</a> based one. Both are static website generators, but since octopress is based on the much popular <a href="http://jekyllrb.com/">jekyll</a>/<a href="http://pages.github.com/">Github</a> based platform, I decided to try this out.</p>
 
 <p>The main reason I chose nanoc over jekyll was the ability to have static home &ldquo;page&rdquo; as opposed to the blog as the main page and it was easier to begin with. Now that I got (re)introduced to octopress, I feel things are as easy as nanoc. Of course I had some trouble getting the right version of Ruby on Mac OS X, but atlast found a <a href="http://panchoat.org/blog/2012/05/26/setup-octopress-under-mac-os-x-lion/">good step-by-step tutorial</a>. For the theme, I found a nice looking one by <a href="http://blog.justin.kelly.org.au/octopress-theme/">Justin Kelly</a> and just used it without any changes.</p>
@@ -30,9 +30,9 @@
   
   <entry>
     <title type="html"><![CDATA[Dependancy Hell]]></title>
-    <link href="http://cnu.name/blog/2012/dependancy-hell/"/>
+    <link href="http://cnu.github.io/blog/2012/dependancy-hell/"/>
     <updated>2012-08-12T09:33:00+05:30</updated>
-    <id>http://cnu.name/blog/2012/dependancy-hell</id>
+    <id>http://cnu.github.io/blog/2012/dependancy-hell</id>
     <content type="html"><![CDATA[<p>Contrary to the title, this has got nothing to do with <a href="http://en.wikipedia.org/wiki/Dependency_hell">installing software packages</a>. Instead this post is about humans.
 Even though the most intelligent and advanced life forms in the history of the universe, with all the technological advances, humans are heavily dependent on others.</p>
 
@@ -46,9 +46,9 @@ Even though the most intelligent and advanced life forms in the history of the u
   
   <entry>
     <title type="html"><![CDATA[26]]></title>
-    <link href="http://cnu.name/blog/2012/26/"/>
+    <link href="http://cnu.github.io/blog/2012/26/"/>
     <updated>2012-04-24T08:30:00+05:30</updated>
-    <id>http://cnu.name/blog/2012/26</id>
+    <id>http://cnu.github.io/blog/2012/26</id>
     <content type="html"><![CDATA[<p>Today I am 26 and here is an update of the list of things I have not done (and done).</p>
 
 <p>I haven&rsquo;t done any of the following stuff (atleast one item striked out):</p>
@@ -66,9 +66,9 @@ Even though the most intelligent and advanced life forms in the history of the u
   
   <entry>
     <title type="html"><![CDATA[New Site]]></title>
-    <link href="http://cnu.name/blog/2012/new-site/"/>
+    <link href="http://cnu.github.io/blog/2012/new-site/"/>
     <updated>2012-04-22T01:52:22+05:30</updated>
-    <id>http://cnu.name/blog/2012/new-site</id>
+    <id>http://cnu.github.io/blog/2012/new-site</id>
     <content type="html"><![CDATA[<p>For a long time all my personal stuff were posted on my <a href="http://cnu.livejournal.com">livejournal</a>, <a href="http://cnus8n.blogspot.com">blogger</a> or <a href="http://cnu.posterous.com">posterous</a> blogs. I always wanted to get my own domain name, but couldn&rsquo;t get <a href="http://cnu.in">cnu.in</a> or <a href="http://cnu.me">cnu.me</a> as they were already registered.</p>
 
 <!-- more -->

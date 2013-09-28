@@ -1,43 +1,43 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://cnu.name/blog/2012/new-site/</loc>
+        <loc>http://cnu.github.io/blog/2012/new-site/</loc>
         <lastmod>2013-09-29T00:19:15+05:30</lastmod>
     </url>
     <url>
-        <loc>http://cnu.name/blog/2012/26/</loc>
+        <loc>http://cnu.github.io/blog/2012/26/</loc>
         <lastmod>2013-09-29T00:20:11+05:30</lastmod>
     </url>
     <url>
-        <loc>http://cnu.name/blog/2012/dependancy-hell/</loc>
+        <loc>http://cnu.github.io/blog/2012/dependancy-hell/</loc>
         <lastmod>2013-09-29T00:21:31+05:30</lastmod>
     </url>
     <url>
-        <loc>http://cnu.name/blog/2013/moved-to-octopress/</loc>
+        <loc>http://cnu.github.io/blog/2013/moved-to-octopress/</loc>
         <lastmod>2013-09-29T01:50:24+05:30</lastmod>
     </url>
     <url>
-        <loc>http://cnu.name/about/</loc>
+        <loc>http://cnu.github.io/about/</loc>
         <lastmod>2013-09-29T01:23:07+05:30</lastmod>
     </url>
     <url>
-        <loc>http://cnu.name/blog/archive/</loc>
+        <loc>http://cnu.github.io/blog/archive/</loc>
         <lastmod>2013-09-29T01:50:24+05:30</lastmod>
     </url>
     <url>
-        <loc>http://cnu.name/blog/</loc>
+        <loc>http://cnu.github.io/blog/</loc>
         <lastmod>2013-09-29T01:50:24+05:30</lastmod>
     </url>
     <url>
-        <loc>http://cnu.name/</loc>
+        <loc>http://cnu.github.io/</loc>
         <lastmod>2013-09-29T01:50:24+05:30</lastmod>
     </url>
     <url>
-        <loc>http://cnu.name/projects/</loc>
+        <loc>http://cnu.github.io/projects/</loc>
         <lastmod>2013-09-29T01:45:08+05:30</lastmod>
     </url>
     <url>
-        <loc>http://cnu.name/robots.txt</loc>
+        <loc>http://cnu.github.io/robots.txt</loc>
         <lastmod>2013-09-28T23:35:55+05:30</lastmod>
     </url>
 </urlset>
