@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: psychology | cnu.name]]></title>
+  <link href="http://cnu.name/blog/categories/psychology/atom.xml" rel="self"/>
+  <link href="http://cnu.name/"/>
+  <updated>2013-09-29T09:10:17+05:30</updated>
+  <id>http://cnu.name/</id>
+  <author>
+    <name><![CDATA[Srinivasan Rangarajan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Dependancy Hell]]></title>
+    <link href="http://cnu.name/blog/2012/dependancy-hell/"/>
+    <updated>2012-08-12T09:33:00+05:30</updated>
+    <id>http://cnu.name/blog/2012/dependancy-hell</id>
+    <content type="html"><![CDATA[<p>Contrary to the title, this has got nothing to do with <a href="http://en.wikipedia.org/wiki/Dependency_hell">installing software packages</a>. Instead this post is about humans.
+Even though the most intelligent and advanced life forms in the history of the universe, with all the technological advances, humans are heavily dependent on others.</p>
+
+<p>A lot of people think they are independent and doesn&rsquo;t need anyone else to live.</p>
+
+<p>Little do they realize that a human is dependent on other humans right from the time he is conceived, till the time his dead body is disposed off. Every second between the birth and death is also dependent on others.</p>
+
+<p>Sadly this is one truth of life that is hard for many to accept. You are in hell &ndash; dependency hell.</p>
+]]></content>
+  </entry>
+  
+</feed>

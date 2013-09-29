@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: birthday | cnu.name]]></title>
+  <link href="http://cnu.name/blog/categories/birthday/atom.xml" rel="self"/>
+  <link href="http://cnu.name/"/>
+  <updated>2013-09-29T09:10:17+05:30</updated>
+  <id>http://cnu.name/</id>
+  <author>
+    <name><![CDATA[Srinivasan Rangarajan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[26]]></title>
+    <link href="http://cnu.name/blog/2012/26/"/>
+    <updated>2012-04-24T08:30:00+05:30</updated>
+    <id>http://cnu.name/blog/2012/26</id>
+    <content type="html"><![CDATA[<p>Today I am 26 and here is an update of the list of things I have not done (and done).</p>
+
+<p>I haven&rsquo;t done any of the following stuff (atleast one item striked out):</p>
+
+<ul>
+<li><strike>Haven&rsquo;t started my own <a href="http://cruns.com">startup</a></strike></li>
+<li>Have not become a millionaire</li>
+<li>Haven&rsquo;t built my own house</li>
+</ul>
+
+
+<p>Will update the list next year (hopefully adding another interesting item as completed).</p>
+]]></content>
+  </entry>
+  
+</feed>

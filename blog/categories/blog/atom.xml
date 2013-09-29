@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[cnu.name]]></title>
-  <link href="http://cnu.name/atom.xml" rel="self"/>
+  <title><![CDATA[Category: blog | cnu.name]]></title>
+  <link href="http://cnu.name/blog/categories/blog/atom.xml" rel="self"/>
   <link href="http://cnu.name/"/>
   <updated>2013-09-29T09:10:17+05:30</updated>
   <id>http://cnu.name/</id>
@@ -25,42 +25,6 @@
 <p>I just had to copy-paste the content from the old site to the new one as it was all mostly written using Markdown. However, I want to fix the projects page a bit &ndash; adding more information, making it more structured and easier to parse (by a human).</p>
 
 <p>Right now I think this does a good enough job of running my personal website. Now the only remaining choice is to whether host it on Github or on own host.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Dependancy Hell]]></title>
-    <link href="http://cnu.name/blog/2012/dependancy-hell/"/>
-    <updated>2012-08-12T09:33:00+05:30</updated>
-    <id>http://cnu.name/blog/2012/dependancy-hell</id>
-    <content type="html"><![CDATA[<p>Contrary to the title, this has got nothing to do with <a href="http://en.wikipedia.org/wiki/Dependency_hell">installing software packages</a>. Instead this post is about humans.
-Even though the most intelligent and advanced life forms in the history of the universe, with all the technological advances, humans are heavily dependent on others.</p>
-
-<p>A lot of people think they are independent and doesn&rsquo;t need anyone else to live.</p>
-
-<p>Little do they realize that a human is dependent on other humans right from the time he is conceived, till the time his dead body is disposed off. Every second between the birth and death is also dependent on others.</p>
-
-<p>Sadly this is one truth of life that is hard for many to accept. You are in hell &ndash; dependency hell.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[26]]></title>
-    <link href="http://cnu.name/blog/2012/26/"/>
-    <updated>2012-04-24T08:30:00+05:30</updated>
-    <id>http://cnu.name/blog/2012/26</id>
-    <content type="html"><![CDATA[<p>Today I am 26 and here is an update of the list of things I have not done (and done).</p>
-
-<p>I haven&rsquo;t done any of the following stuff (atleast one item striked out):</p>
-
-<ul>
-<li><strike>Haven&rsquo;t started my own <a href="http://cruns.com">startup</a></strike></li>
-<li>Have not become a millionaire</li>
-<li>Haven&rsquo;t built my own house</li>
-</ul>
-
-
-<p>Will update the list next year (hopefully adding another interesting item as completed).</p>
 ]]></content>
   </entry>
   
