@@ -4,7 +4,7 @@
   <title><![CDATA[cnu.name]]></title>
   <link href="http://cnu.name/atom.xml" rel="self"/>
   <link href="http://cnu.name/"/>
-  <updated>2013-09-29T10:13:28+05:30</updated>
+  <updated>2013-09-29T12:01:57+05:30</updated>
   <id>http://cnu.name/</id>
   <author>
     <name><![CDATA[Srinivasan Rangarajan]]></name>
@@ -20,7 +20,7 @@
     <id>http://cnu.name/blog/2013/moved-to-octopress</id>
     <content type="html"><![CDATA[<p>I have decided to move my site/blog to <a href="http://octopress.org/">Octopress</a> from the old <a href="http://nanoc.stoneship.org/">nanoc</a> based one. Both are static website generators, but since octopress is based on the much popular <a href="http://jekyllrb.com/">jekyll</a>/<a href="http://pages.github.com/">Github</a> based platform, I decided to try this out.</p>
 
-<p>The main reason I chose nanoc over jekyll was the ability to have static home &ldquo;page&rdquo; as opposed to the blog as the main page and it was easier to begin with. Now that I got (re)introduced to octopress, I feel things are as easy as nanoc. Of course I had some trouble getting the right version of Ruby on Mac OS X, but atlast found a <a href="http://panchoat.org/blog/2012/05/26/setup-octopress-under-mac-os-x-lion/">good step-by-step tutorial</a>. For the theme, I found a nice looking one by <a href="http://blog.justin.kelly.org.au/octopress-theme/">Justin Kelly</a> and just used it without any changes.</p>
+<p>The main reason I originally chose nanoc over jekyll was the ability to have static home &ldquo;page&rdquo; as opposed to the blog as the main page and it was easier to begin with. Now that I got (re)introduced to octopress, I feel things are as easy as nanoc. Of course I had some trouble getting the right version of Ruby on Mac OS X, but atlast found a <a href="http://panchoat.org/blog/2012/05/26/setup-octopress-under-mac-os-x-lion/">good step-by-step tutorial</a>. For the theme, I found a nice looking one by <a href="http://blog.justin.kelly.org.au/octopress-theme/">Justin Kelly</a> and just used it without any changes.</p>
 
 <p>I just had to copy-paste the content from the old site to the new one as it was all mostly written using Markdown. However, I want to fix the projects page a bit &ndash; adding more information, making it more structured and easier to parse (by a human).</p>
 
